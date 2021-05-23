@@ -36,3 +36,7 @@ Debug/
 *.vcxproj
 *.vcxproj.*
 *.sln
+
+.vscode/*.json
+.vscode/
+.vs/
